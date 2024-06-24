@@ -132,7 +132,7 @@ object DataStructures{
 
     lazy val donuts: Int = 100
     println(donuts * 5)
-    
+
 //    lazy var donuts_1 : Int = 20  **** lazy can't be used with var. *******
 
 
